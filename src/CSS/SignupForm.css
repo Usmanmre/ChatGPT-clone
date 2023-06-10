@@ -1,0 +1,14 @@
+.signup-form-container{
+    background-color: #343541;
+    width: 50%;
+    height: 50%;
+    /* transform: translate(-20, -50) ; */
+    margin-top: 8em;
+    margin-left: 25em;
+    color: white;
+    padding: 3em;
+}
+.submit-btn{
+    background-color: #00A67E;
+    border: none;
+}
